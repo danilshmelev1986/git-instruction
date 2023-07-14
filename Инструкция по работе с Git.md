@@ -72,7 +72,7 @@
     3. git checkout -b branch name - создать ветку и сразу на нее переместиться; 
     4. git branch -d branch_name - удалить ветку с именем branch_name.
     5. git branch -m new_branch_name - переименовать текущую ветку на new_branch_name.
-    6. Лишний пункт
+    6. git branch --delete имя ветки. - команда удаляет ветку. 
 
 * <span style="color: yellow;">git </span> checkout
 
