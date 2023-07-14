@@ -69,8 +69,9 @@
 
     1. git branch - просмотреть список всех существующих веток.
     2. git branch new_branch - создать новую ветку с именем new_branch.
-    3. git branch -d branch_name - удалить ветку с именем branch_name.
-    4. git branch -m new_branch_name - переименовать текущую ветку на new_branch_name.
+    3. git checkout -b branch name - создать ветку и сразу на нее переместиться; 
+    4. git branch -d branch_name - удалить ветку с именем branch_name.
+    5. git branch -m new_branch_name - переименовать текущую ветку на new_branch_name.
 
 * <span style="color: yellow;">git </span> checkout
 
