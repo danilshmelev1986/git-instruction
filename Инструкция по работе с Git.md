@@ -1,6 +1,10 @@
 # Инструкция по работе с git 18.07.2023
 
-[Отличный набор видео по Git](https://vimeo.com/showcase/5616060 )
+[Отличный набор видео по Git (скринкаст по git от Ilya Kantor)](https://vimeo.com/showcase/5616060 )
+
+[Тренажер по git](https://learngitbranching.js.org/?locale=ru_RU) 
+
+Статья на Хабр git для новичков [часть 1](https://habr.com/ru/articles/541258/) , [часть 2](https://habr.com/ru/articles/542616/) 
 ## Установка git
 
 Установи git с [сайта.](https://git-scm.com/)
