@@ -6,7 +6,7 @@
 
 Статья на Хабр git для новичков [часть 1](https://habr.com/ru/articles/541258/) , [часть 2](https://habr.com/ru/articles/542616/) 
 
-Материалы по git от Николая Мануйлова (GB) [Настройка репозитория](https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository/), [Сохранение изменений](https://www.atlassian.com/ru/git/tutorials/saving-changes/),
+От Николая Мануйлова (GB) [Настройка репозитория](https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository/), [Сохранение изменений](https://www.atlassian.com/ru/git/tutorials/saving-changes/),
 [Проверка репозитория](https://www.atlassian.com/ru/git/tutorials/inspecting-a-repository/),
 [Отмена изменений](https://www.atlassian.com/ru/git/tutorials/undoing-changes/); 
 
