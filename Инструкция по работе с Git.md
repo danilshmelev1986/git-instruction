@@ -6,7 +6,7 @@
 
 Статья на Хабр git для новичков [часть 1](https://habr.com/ru/articles/541258/) , [часть 2](https://habr.com/ru/articles/542616/) 
 
-Материалы по git от Николая Мануйлова (GB) [Настройка репозитория]((https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository)) 
+Материалы по git от Николая Мануйлова (GB) [Настройка репозитория](https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository/) 
 
 ## Установка git
 
